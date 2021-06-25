@@ -1,2 +1,2 @@
 # SKUT
-Small library with a few common patterns for general architectural concerns.
+Contains utils and extensions for unit/integration tests.
